@@ -30,10 +30,7 @@ Sou desenvolvedor Flutter focado em criar aplicativos de qualidade, com código 
 ### 🔹 [EasyTasks](https://lnkd.in/ehhwDj3J)
 > Aplicativo de gerenciamento de tarefas com Flutter + Firebase + MVC  
 > Login com Firebase Auth, tarefas em tempo real via Firestore, responsivo e com código limpo
-
-### 🔹 EasyWallet (em andamento)
-> App de controle financeiro pessoal, com foco em testes automatizados, boas práticas e arquitetura modular
-
+> 
 ---
 
 ## 🌱 Atualmente estou:
