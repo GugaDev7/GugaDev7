@@ -7,7 +7,7 @@ Sou desenvolvedor Flutter focado em criar aplicativos de qualidade, com código 
 ## 🚀 Sobre mim
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-🛠️ Stack principal: **Flutter**, **Dart**, **Firebase**, **Provider**, **MVC**  
+🛠️ Stack principal: **Flutter**, **Dart**, **Firebase**, **MobX**, **Provider**, **MVC**  
 🧪 Interesse em testes automatizados e Clean Architecture  
 📲 Desenvolvendo projetos mobile e web para praticar e evoluir
 
