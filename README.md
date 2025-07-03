@@ -20,7 +20,10 @@ Desenvolvedor focado em criar soluções mobile de alta qualidade, com ênfase e
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Provider-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/MobX-FF9955?style=for-the-badge&logo=mobx&logoColor=white" />
   <img src="https://img.shields.io/badge/MVC-6C757D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MVVM-007ACC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Testes-43A047?style=for-the-badge" />
 </div>
 
 ---
@@ -56,7 +59,7 @@ Desenvolvedor focado em criar soluções mobile de alta qualidade, com ênfase e
 
 Vamos conversar? Sinta-se à vontade para me chamar:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-rodriguesrj/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-rodrigues-167264361/)
 
 ---
 
