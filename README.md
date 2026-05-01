@@ -1,66 +1,77 @@
 # 👋 Olá! Eu sou o Gustavo Rodrigues
 
-Desenvolvedor focado em criar soluções mobile de alta qualidade, com ênfase em código limpo, arquitetura escalável e as melhores práticas de desenvolvimento. Atualmente, dedico-me a projetos próprios para aprimorar habilidades práticas e construir um portfólio sólido visando ingressar no mercado de trabalho como desenvolvedor mobile.
+**Fullstack Developer | Analista de TI | DevOps Enthusiast**
+
+Desenvolvedor apaixonado por construir soluções escaláveis que unem performance mobile, lógica de backend robusta e infraestrutura resiliente. Atualmente, atuo na **Pro-Fé Empreendimentos**, onde transformo desafios complexos do setor agroindustrial em ferramentas digitais de alto impacto.
 
 ---
 
 ## 🚀 Sobre Mim
 
-- 🎓 Graduando em Análise e Desenvolvimento de Sistemas
-- 🛠️ Stack principal: **Flutter**, **Dart**, **Firebase**, **MobX**, **Provider**, **MVC**
-- 🧪 Interesse em testes automatizados e Clean Architecture
-- 📲 Desenvolvimento de projetos mobile e web para prática e evolução contínua
+- 🎓 Graduando em **Análise e Desenvolvimento de Sistemas** (Conclusão em Junho de 2026).
+- 💼 Analista de TI focado em **automação de processos** e suporte a sistemas críticos (**TOTVS Protheus**).
+- 🛠️ Stack principal: **Flutter**, **Python (FastAPI)**, **Kotlin** e **Dart**.
+- 🐳 Experiência em conteinerização com **Docker** e administração de sistemas **Linux (Rocky/Fedora)**.
+- 🧪 Foco em **Clean Architecture**, **MVVM** e integração de APIs REST.
 
 ---
 
 ## 🧰 Tecnologias & Ferramentas
 
-<div style="display: flex; gap: 10px;">
+### **Desenvolvimento & Mobile**
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Provider-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/MobX-FF9955?style=for-the-badge&logo=mobx&logoColor=white" />
-  <img src="https://img.shields.io/badge/MVC-6C757D?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MVVM-007ACC?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Testes-43A047?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</div>
+
+### **Infraestrutura & DevOps**
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
 ---
 
 ## 💼 Projetos em Destaque
 
+### 🔹 [Saída de Álcool](https://github.com/GugaDev7/saida-de-alcool)
+> Utilitário desktop multiplataforma em produção real para o setor agroindustrial.
+> 
+> **Tecnologias:** Flutter, SQLite, MVVM, Clean Architecture, Provider.
+
+### 🔹 [form_validator_plus](https://github.com/GugaDev7/form_validator_plus)
+> Pacote Dart/Flutter focado em Clean Code e validações de campos de formulário.
+> 
+> **Tecnologias:** Dart, Flutter, Unit Tests.
+
 ### 🔹 [Portfólio Pessoal](https://this-is-gustavo.vercel.app)
-> Portfólio desenvolvido em Flutter para apresentar projetos e habilidades.
+> Desenvolvido em Flutter Web com foco em performance e responsividade.
 > 
-> **Tecnologias:** Flutter, Dart, Provider, EmailJS, HTTP, URL Launcher, Flutter SVG
-
-### 🔹 [EasyTasks](https://github.com/GugaDev7/flutter-easytasks)
-> Gerenciador de tarefas moderno e responsivo.
-> 
-> **Tecnologias:** Flutter, Dart, Firebase Auth, Cloud Firestore, MVC, Material Design 3, Flutter Web
-
-### 🔹 [form_validator_plus](https://github.com/seuusuario/form_validator_plus)
-> Pacote de validadores reutilizáveis para campos de formulário.
-> 
-> **Tecnologias:** Dart, Flutter, Testes Unitários
+> **Tecnologias:** Flutter, Provider, EmailJS, Internacionalização (i18n).
 
 ---
 
 ## 🌱 Em Desenvolvimento
 
-- 🔨 Novos projetos Flutter para o portfólio
-- 📚 Estudos em testes automatizados com `flutter_test` e integração contínua
-- 🤝 Acompanhamento das tendências do mercado de tecnologia e melhores práticas
+- 🔨 Integração de sistemas ERP (**Protheus**) com soluções modernas em **FastAPI**.
+- 📚 Aprofundamento em orquestração e **automação DevOps**.
+- ☁️ Estudos em arquitetura de nuvem (AWS).
 
 ---
 
 ## 📫 Contato
 
-Vamos conversar? Sinta-se à vontade para me chamar:
+Vamos conectar e trocar experiências!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-rodrigues-167264361/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-rodriguesrj/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gugadev7)
 
 ---
 
-> “Praticar é o caminho mais curto entre o conhecimento e a experiência.” 
+> “Automatizar é converter conhecimento em tempo.”
